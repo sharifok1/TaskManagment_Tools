@@ -1,6 +1,6 @@
 # TaskUp Project managment Tools
 
-App live link: ( https://gilded-kheer-7e63af.netlify.app/ )
+App live link: ( https://demotaskup.netlify.app/ )
 
 <br/>
 
